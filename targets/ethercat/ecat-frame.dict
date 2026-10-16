@@ -1,0 +1,2 @@
+# Tokens ecx_inframe()'s wire-content checks branch on directly.
+ethertype_ecat="\x88\xa4"
